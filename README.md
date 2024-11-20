@@ -23,7 +23,7 @@
 ## 🧩 Technologies worked with
 <a name="learning-now"></a>
 <div >
-<img src="https://img.shields.io/badge/Java-282C34?logo=java" alt="Java" title="Java" height="25" />
+<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=white" alt="Java" title="Java" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=cyan" alt="react logo" title="react" height="25" />
 &nbsp;

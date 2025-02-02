@@ -1,6 +1,6 @@
 - About Me :)
 - Pre final year computer science student eager to build impactful software
-- Likes Chess, Music and Problem Solving 
+- Likes Chess and Problem Solving 
 - Currently exploring Full Stack;
 
 

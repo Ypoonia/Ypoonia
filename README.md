@@ -5,7 +5,6 @@
 
 
 <a href="mailto:ypoonia217@gmail.com">Get In Touch</a>&nbsp;
-<a href="https://drive.google.com/file/d/1QWJpBS6HrVOto5UurLhkCcImWqSJzEMk/view?usp=sharing">Resume</a>
 
 ## 📈 Coding Profiles
 <span>

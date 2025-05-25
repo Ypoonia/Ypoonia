@@ -4,7 +4,7 @@
 - Currently exploring Full Stack;
 
 
-<a href="mailto:ypoonia217@gmail.com">Get In Touch</a>&nbsp;
+ <a href="mailto:ypoonia217@gmail.com">Get In Touch</a>&nbsp;
 
 ## 📈 Coding Profiles
 <span>

@@ -1,6 +1,6 @@
 Hi, 
 Decent Coder....
-Most things are private, so have a good day.
+- Most things are private, so have a good day.
 - Likes Chess and Problem Solving 
 
 

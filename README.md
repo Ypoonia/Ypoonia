@@ -1,7 +1,7 @@
-- About Me :)
-- Pre final year computer science student eager to build impactful software
+Hi, 
+Decent Coder....
+Most things are private, so have a good day.
 - Likes Chess and Problem Solving 
-- Currently exploring Full Stack;
 
 
  <a href="mailto:ypoonia217@gmail.com">Get In Touch</a>&nbsp;
